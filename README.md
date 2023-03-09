@@ -13,5 +13,5 @@ You are on my github! Here you can follow a little of my development
 - <img align="center" height="30" width="40" alt="codding"
 src="https://imgur.com/ufQjUIc.png">  I am currently dedicating my time to organizing both old and new projects in order to build my portfolio
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikcwill)](https://github.com/anuraghazra/github-readme-stats)
 
