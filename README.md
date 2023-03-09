@@ -16,11 +16,11 @@ src="https://imgur.com/ufQjUIc.png">  I am currently dedicating my time to organ
 
  
 <div width="100%">
-  <span align="center">
+  <span align="left">
   <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikcwill&show_icons=true&hide_border=true&theme=radical"/>
  </span>
 </div>
- <span align="center">
+ <span align="right">
    <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=erikcwill&show_icons=true&hide_border=true&theme=radical"/>
  </span>
 
