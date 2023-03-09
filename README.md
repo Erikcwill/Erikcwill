@@ -1,5 +1,5 @@
  ## &nbsp;Welcome ##
-**Hello!**
+
 I'm **Erick William**! A front-end student from ***Santa Catarina, Brazil*** <br>
 You are on my github! Here you can follow a little of my development 
 <p align="center"> I have knowledge in Javascript, HTML and CSS technologies</p>
