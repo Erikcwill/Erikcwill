@@ -13,14 +13,17 @@ You are on my github! Here you can follow a little of my development
 
 - <img align="center" height="30" width="40" alt="codding"
 src="https://imgur.com/ufQjUIc.png">  I am currently dedicating my time to organizing both old and new projects in order to build my portfolio
+
+ 
 <div width="100%">
- <span align="center">
-   <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=erikcwill&show_icons=true&hide_border=true&theme=radical"/>
- </span>
- <span align="center">
+  <span align="center">
   <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikcwill&show_icons=true&hide_border=true&theme=radical"/>
  </span>
 </div>
+ <span align="center">
+   <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=erikcwill&show_icons=true&hide_border=true&theme=radical"/>
+ </span>
+
 
 
 [![wakatime](https://wakatime.com/badge/user/738a0c98-5b3a-46eb-b287-a7855623ac05.svg)](https://wakatime.com/@738a0c98-5b3a-46eb-b287-a7855623ac05)
