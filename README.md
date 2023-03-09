@@ -14,10 +14,10 @@ You are on my github! Here you can follow a little of my development
 - <img align="center" height="30" width="40" alt="codding"
 src="https://imgur.com/ufQjUIc.png">  I am currently dedicating my time to organizing both old and new projects in order to build my portfolio
 <div width="100%">
- <span align="left">
+ <span align="right">
    <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=erikcwill&show_icons=true&theme=radical"/>
  </span>
- <span align="right">
+ <span align="left">
   <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikcwill&theme=radical"/>
  </span>
 </div>
