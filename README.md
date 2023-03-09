@@ -17,14 +17,10 @@ src="https://imgur.com/ufQjUIc.png">  I am currently dedicating my time to organ
 
 
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="width: 50%;">
+
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikcwill&show_icons=true&theme=radical)
-  </div>
-  <div style="width: 50%;">
+
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikcwill&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-</div>
 
 
 [![wakatime](https://wakatime.com/badge/user/738a0c98-5b3a-46eb-b287-a7855623ac05.svg)](https://wakatime.com/@738a0c98-5b3a-46eb-b287-a7855623ac05)
