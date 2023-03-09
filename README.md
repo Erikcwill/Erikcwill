@@ -14,3 +14,4 @@ You are on my github! Here you can follow a little of my development
 src="https://imgur.com/ufQjUIc.png">  I am currently dedicating my time to organizing both old and new projects in order to build my portfolio
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikcwill&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikcwill&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
