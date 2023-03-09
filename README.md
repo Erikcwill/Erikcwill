@@ -15,4 +15,4 @@ src="https://imgur.com/ufQjUIc.png">  I am currently dedicating my time to organ
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikcwill&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikcwill&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=erikcwill&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=erikcwill)](https://github.com/anuraghazra/github-readme-stats)
