@@ -15,7 +15,7 @@ You are on my github! Here you can follow a little of my development
 src="https://imgur.com/ufQjUIc.png">  I am currently dedicating my time to organizing both old and new projects in order to build my portfolio
 <div width="100%">
  <span align="center">
-   <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=erikcwill&show_icons=true&theme=radical"/>
+   <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=erikcwill&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF/>
  </span>
  <span align="center">
   <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikcwill&theme=radical"/>
