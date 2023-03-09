@@ -25,6 +25,6 @@ src="https://imgur.com/ufQjUIc.png">  I am currently dedicating my time to organ
    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=erikcwill&show_icons=true&theme=radical"/>
  </span>
  <span align="right">
-  <img width="45%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikcwill&theme=radical"/>
+  <img width="45%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikcwill&theme=radical"/>
  </span>
 </div>
