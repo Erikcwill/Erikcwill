@@ -18,7 +18,7 @@ src="https://imgur.com/ufQjUIc.png">  I am currently dedicating my time to organ
    <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=erikcwill&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF"/>
  </span>
  <span align="center">
-  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikcwill&show_icons=true&hide_border=true&radical"/>
+  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikcwill&show_icons=true&hide_border=true&theme=radical"/>
  </span>
 </div>
 
