@@ -24,9 +24,6 @@ src="https://imgur.com/ufQjUIc.png">  I am currently dedicating my time to organ
 </span>
 </div
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=werikcwill)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![wakatime](https://wakatime.com/badge/user/738a0c98-5b3a-46eb-b287-a7855623ac05.svg)](https://wakatime.com/@738a0c98-5b3a-46eb-b287-a7855623ac05)
+ [![wakatime](https://wakatime.com/badge/user/738a0c98-5b3a-46eb-b287-a7855623ac05.svg)](https://wakatime.com/@738a0c98-5b3a-46eb-b287-a7855623ac05)
 
 
